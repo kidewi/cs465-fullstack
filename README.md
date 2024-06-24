@@ -22,7 +22,7 @@
     Kirk Wilson
     <br />
     <br />
-    <a href="https://github.com/kidewi/cs465-fullstack/tree/module7/images/travlr_login.gif">View Demo</a>
+    <a href="https://github.com/kidewi/cs465-fullstack/blob/module7/images/travlr_login.gif">View Demo</a>
     ·
     <a href="https://github.com/kidewi/cs465-fullstack/issues">Report Bug</a>
     ·
@@ -62,7 +62,7 @@
 ## About The Project
 <div align = "center">
   <h3>"Travlr" Web Application</h3>
-  <img src="https://github.com/kidewi/cs465-fullstack/tree/module7/images/user_facing_page.png" alt="Main" width=auto><p></p>
+  <img src="https://github.com/kidewi/cs465-fullstack/blob/module7/images/user_facing_page.png" alt="Main" width=auto><p></p>
 <!-- [![Product Name Screen Shot][product-screenshot]](https://example.com)-->
 </div>
 
@@ -160,8 +160,8 @@ To install and run the application, follow the instructions below.
         <th>Travel Page</th>    
     </tr>
     <tr>
-        <td><img src="https://github.com/kidewi/cs465-fullstack/tree/module7/images/user_facing_page.png" alt="[main user page]" style="width=auto;"></td>
-        <td><img src="https://github.com/kidewi/cs465-fullstack/tree/module7/images/travel_page_user.png" alt="[travel page]" style="width=auto;"></td>
+        <td><img src="https://github.com/kidewi/cs465-fullstack/blob/module7/images/user_facing_page.png" alt="[main user page]" style="width=auto;"></td>
+        <td><img src="https://github.com/kidewi/cs465-fullstack/blob/module7/images/travel_page_user.png" alt="[travel page]" style="width=auto;"></td>
     </tr>
         
 </table>
@@ -175,9 +175,9 @@ To install and run the application, follow the instructions below.
         <th>Logged In</th>
     </tr>
     <tr>
-        <td><img src="https://github.com/kidewi/cs465-fullstack/tree/module7/images/user_logged_out.png" alt="[homepage]" style="width=auto;"></td>
-        <td><img src="https://github.com/kidewi/cs465-fullstack/tree/module7/images/login_page.png" alt="[login]" style="width=auto;"></td>
-        <td><img src="https://github.com/kidewi/cs465-fullstack/tree/module7/images/main_page.png" alt="[logged in]" style="width=auto;"></td>
+        <td><img src="https://github.com/kidewi/cs465-fullstack/blob/module7/images/user_logged_out.png" alt="[homepage]" style="width=auto;"></td>
+        <td><img src="https://github.com/kidewi/cs465-fullstack/blob/module7/images/login_page.png" alt="[login]" style="width=auto;"></td>
+        <td><img src="https://github.com/kidewi/cs465-fullstack/blob/module7/images/main_page.png" alt="[logged in]" style="width=auto;"></td>
     </tr>
 </table>
 
@@ -188,9 +188,9 @@ To install and run the application, follow the instructions below.
         <th>Trip Deleted</th
     </tr>
     <tr>
-        <td><img src="https://github.com/kidewi/cs465-fullstack/tree/module7/images/editing_trip.png" alt="[edit]" style="width=auto;"></td>
-        <td><img src="https://github.com/kidewi/cs465-fullstack/tree/module7/images/trip_edited_successfully.png" alt="[success]" style="width=auto;"></td>
-        <td><img src="https://github.com/kidewi/cs465-fullstack/tree/module7/images/trip_deleted_successfully.png" alt="[deleted]" style="width=auto;"></td>
+        <td><img src="https://github.com/kidewi/cs465-fullstack/blob/module7/images/editing_trip.png" alt="[edit]" style="width=auto;"></td>
+        <td><img src="https://github.com/kidewi/cs465-fullstack/blob/module7/images/trip_edited_successfully.png" alt="[success]" style="width=auto;"></td>
+        <td><img src="https://github.com/kidewi/cs465-fullstack/blob/module7/images/trip_deleted_successfully.png" alt="[deleted]" style="width=auto;"></td>
     </tr>
 </table>
 
