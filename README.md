@@ -19,7 +19,7 @@
   <h3 align="center">CS 465: Full Stack Development I</h3>
 
   <p align="center">
-    Lawrence Artl III
+    Kirk Wilson
     <br />
     <br />
     <a href="https://github.com/kidewi/cs465-fullstack/main/images/travlr_login.gif">View Demo</a>
